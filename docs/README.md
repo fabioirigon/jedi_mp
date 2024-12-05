@@ -23,6 +23,11 @@ Pig-Man é um jogo no estilo Pac-Man,com um toque educativo O jogador controla u
 
 Nesta fase, o jogador precisa atravessar um deserto cheio de obstáculos básicos. O objetivo é alcançar o outro lado do mapa antes que o tempo acabe. Ao longo do caminho, há pequenos desafios, como evitar áreas de areia movediça, cactos e pedras que surgem no caminho, para ultrapassar desses objetos o jogador dee responder uma pergunta.
 
+## Fase Grupo F
+
+A fase se baseia em uma época medieval, onde os jogadores se encontrarão entre castelos, vilarejos e mares. Os jogadores serão cavaleiros como default e ao errarem a pergunta, irão se transformar em goblins para que os que acertaram possam caçalos. Não vai ser uma fase com muitas complicações ou com interaçõs dos jogadores. Eles terão que utilizar o terreno ao seu favor para se esconder ou driblas os "caçadores".
+
+
 ## Fase Grupo G
 
 A fase começa com uma pergunta para definir caçadores e presas. As presas tentam escapar em um campo minado, com penalidades e chances de redenção. Caçadores têm tempo limitado para capturar as presas, que ganham pontos se sobreviverem até o fim.
